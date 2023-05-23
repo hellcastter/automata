@@ -1,3 +1,4 @@
+""" Day Automata """
 import random
 
 
